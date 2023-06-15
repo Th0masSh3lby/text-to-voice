@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/text-to-voice/static/css/main.c49cea5f.css",
-    "main.js": "/text-to-voice/static/js/main.9aa1dce6.js",
+    "main.css": "/text-to-voice/static/css/main.ea635706.css",
+    "main.js": "/text-to-voice/static/js/main.2c1447d5.js",
     "index.html": "/text-to-voice/index.html",
-    "main.c49cea5f.css.map": "/text-to-voice/static/css/main.c49cea5f.css.map",
-    "main.9aa1dce6.js.map": "/text-to-voice/static/js/main.9aa1dce6.js.map"
+    "main.ea635706.css.map": "/text-to-voice/static/css/main.ea635706.css.map",
+    "main.2c1447d5.js.map": "/text-to-voice/static/js/main.2c1447d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c49cea5f.css",
-    "static/js/main.9aa1dce6.js"
+    "static/css/main.ea635706.css",
+    "static/js/main.2c1447d5.js"
   ]
 }
