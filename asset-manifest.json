@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-to-voice/static/css/main.c49cea5f.css",
+    "main.js": "/text-to-voice/static/js/main.9aa1dce6.js",
+    "index.html": "/text-to-voice/index.html",
+    "main.c49cea5f.css.map": "/text-to-voice/static/css/main.c49cea5f.css.map",
+    "main.9aa1dce6.js.map": "/text-to-voice/static/js/main.9aa1dce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49cea5f.css",
+    "static/js/main.9aa1dce6.js"
+  ]
+}
