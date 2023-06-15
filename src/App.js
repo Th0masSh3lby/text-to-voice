@@ -56,6 +56,7 @@ function App() {
         </div>
         <button onClick={handleSpeak}>Speak</button>
       </div>
+      <p>by Aravind</p>
     </div>
   );
 }
